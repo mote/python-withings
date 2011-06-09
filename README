@@ -1,0 +1,3 @@
+Simple python wrapper to fetch data from withings.com api.
+
+Strives to fetch friendly-formatted data where possible.
